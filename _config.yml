@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.6158908230994147
+  lightness: 0.10229685745600192
+  rhythmicContrast: 0.6201109950752041
+  saturation: 0.31952417128629307
+layout_spectrum: 0.31900342954135663
+name: Google Meeting
+typography_spectrum: 0.22756511404020152

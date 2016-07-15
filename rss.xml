@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Google Meeting]]></title>
         <description><![CDATA[Google Meeting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/google-meeting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:33:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 21:33:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/google-meeting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44aad25d-3028-4010-a247-13d435f4a6e9.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/44aad25d-3028-4010-a247-13d435f4a6e9.jpg</link>
+            <guid isPermaLink="false">a7573dc3-674a-4d39-83ec-eaf2281726cd</guid>
+            <pubDate>Fri, 15 Jul 2016 21:33:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc58fb0d-2e93-4f4c-8c54-102a36ac8c45.jpg">]]></description>

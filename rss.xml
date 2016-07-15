@@ -4,7 +4,7 @@
         <description><![CDATA[Google Meeting]]></description>
         <link>https://thegrid.ai/google-meeting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 21:37:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/google-meeting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nest Outdoor Cam uses Google AI to detect people (so you can shoo away Pokemon Go lurkers)]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.google.com/amp/www.bbc.co.uk/news/amp/36713308?client=ms-android-google#</link>
             <guid isPermaLink="false">a3021aa8-9f2d-45a6-b6b2-b732b6694a95</guid>
             <pubDate>Fri, 15 Jul 2016 21:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's DeepMind to use AI in diagnosing eye disease]]></title>
+            <description><![CDATA[<article><h1>Google's DeepMind to use AI in diagnosing eye disease</h1><p>SAN FRANCISCO - Google plans to use more than one million anonymized eye scans to teach computers how to diagnose ocular disease. The Menlo Park, Calif.-based company has signed a deal with a British eye hospital to use artificial intelligence to learn from the medical records of 1.6 million patients in London hospitals.</p><img src="http://www.gannett-cdn.com/-mm-/e7dccd31a25f3a99fa2e7a1ae2c82c0012980e1f/c=0-44-300-213&r=x633&c=1200x630/local/-/media/2016/07/05/USATODAY/USATODAY/636033393713735240-Stargardt-disease-color-fundus-photo-Zein.jpg"></article>]]></description>
+            <link>https://www.google.com/amp/amp.usatoday.com/story/86722906/?client=ms-android-google#</link>
+            <guid isPermaLink="false">d3fed043-eb81-4540-a376-11a3384c3504</guid>
+            <pubDate>Fri, 15 Jul 2016 21:37:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
